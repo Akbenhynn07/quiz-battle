@@ -17,7 +17,6 @@ export default function Lobby() {
 
   useEffect(() => {
     if (!socket || !username) {
-      navigate('/');
       return;
     }
 
