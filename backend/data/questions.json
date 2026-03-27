@@ -1,0 +1,32 @@
+[
+  {
+    "id": "q1",
+    "question": "What does HTML stand for?",
+    "options": ["Hyper Text Markup Language", "Hyperlinks and Text Markup Language", "Home Tool Markup Language", "Hyper Text Multi Language"],
+    "correctAnswer": 0
+  },
+  {
+    "id": "q2",
+    "question": "Which company developed React?",
+    "options": ["Google", "Facebook", "Amazon", "Apple"],
+    "correctAnswer": 1
+  },
+  {
+    "id": "q3",
+    "question": "What is the default port for Vite?",
+    "options": ["3000", "8080", "5173", "4200"],
+    "correctAnswer": 2
+  },
+  {
+    "id": "q4",
+    "question": "What does CSS stand for?",
+    "options": ["Computer Style Sheets", "Creative Style Sheets", "Cascading Style Sheets", "Colorful Style Sheets"],
+    "correctAnswer": 2
+  },
+  {
+    "id": "q5",
+    "question": "Which hook is used to manage state in a React functional component?",
+    "options": ["useEffect", "useRef", "useState", "useMemo"],
+    "correctAnswer": 2
+  }
+]
